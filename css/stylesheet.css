@@ -1,0 +1,101 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#bg{
+    background: url(../img/bg.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#mu{
+    text-align: center;
+    border-radius: 0px 0px 500px 500px;
+    background-color: rgb(4, 117, 111);
+    background-size: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#muu{
+    margin:11px;
+    padding:10px;
+    width: 1470px;
+    
+
+}
+#muu :hover{
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(255, 255, 255);
+    color: rgb(4, 92, 82);
+    text-shadow: 2px 2px 15px #000000;
+}
+img{
+    width: 100px;
+   
+}
+#MinistryProgramsandServices{
+    width: 1450px;
+    height: 1000px;
+    background-color: rgba(240, 248, 255, 0.473);
+    color: rgb(4, 69, 69);
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 38px;
+    padding-top: 50px;
+
+}
+#ElectronicSoftwareForms{
+    width: 1450px;
+    height: 1000px;
+    background-color: rgba(240, 248, 255, 0.473);
+    color: rgb(4, 69, 69);
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 38px;
+    padding-top: 50px;
+
+}
+#CircularsandDecisions{
+    width: 1450px;
+    height: 1000px;
+    background-color: rgba(240, 248, 255, 0.473);
+    color: rgb(4, 69, 69);
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 38px;
+    padding-top: 50px;
+
+}
+#StaffBlog{
+    width: 1450px;
+    height: 1000px;
+    background-color: rgba(240, 248, 255, 0.473);
+    color: rgb(4, 69, 69);
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 38px;
+    padding-top: 50px;
+
+}
+#CircularsArchive{
+    width: 1450px;
+    height: 1000px;
+    background-color: rgba(240, 248, 255, 0.473);
+    color: rgb(4, 69, 69);
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 38px;
+    padding-top: 50px;
+    
+}
+#hover :hover{
+    background-color: rgba(7, 83, 83, 0.473);
+    color: rgb(255, 255, 255);
+border-bottom: 4px solid rgb(253, 164, 0);
+font-size: 50px;
+
+}
